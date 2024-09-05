@@ -1,20 +1,21 @@
 class Solution {
 public:
-    int solve(vector<int>& nums){
+    
+    int maxProduct(vector<int>& nums) {
         int n = nums.size();
-        int mpro = 0;
+        int mpro = INT_MIN;
+        int curr = 1;
         for(int i = 0; i<n; i++){
-            int curr = 1;
-            for(int j = i; j<n; j++){
-                curr *= nums[j];
-                mpro = max(mpro, curr);
-            }
+            curr *= nums[i];
+            mpro = max(curr, mpro);
+            if(curr == 0) curr = 1;
+        }
+        curr = 1;
+        for(int i = n-1; i>=0; i--){
+            curr *= nums[i];
+            mpro = max(curr, mpro);
+            if(curr == 0) curr = 1;
         }
         return mpro;
-    }
-    int maxProduct(vector<int>& nums) {
-        if(nums.size() == 1) return nums[0];
-        
-        return solve(nums);
     }
 };
