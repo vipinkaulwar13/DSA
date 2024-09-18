@@ -1,17 +1,18 @@
 class Solution {
 public:
+    
     int jump(vector<int>& nums) {
-       int ans = 0, n = int(nums.size());
-        int curend = 0, curfar = 0;
-        
-        for(int i = 0; i<n-1; ++i){
-            curfar = max(curfar, i+nums[i]);
-            
-            if(i == curend){
-                ans++;
-                curend = curfar;
+        int l = 0, r=0;
+        int jumps = 0;
+        while(r<nums.size()-1){
+            int temp = 0;
+            for(int i = l; i<=r; i++){
+                temp = max(temp, i+nums[i]);
             }
+            l = r+1;
+            r = temp;
+            jumps++;
         }
-        return ans;
+        return jumps;
     }
 };
