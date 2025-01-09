@@ -6,6 +6,7 @@ DSA
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/vipinkaulwar13/DSA/tree/master/0039-combination-sum) |
 | [1524-string-matching-in-an-array](https://github.com/vipinkaulwar13/DSA/tree/master/1524-string-matching-in-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/vipinkaulwar13/DSA/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/vipinkaulwar13/DSA/tree/master/2465-shifting-letters-ii) |
@@ -48,4 +49,8 @@ DSA
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/vipinkaulwar13/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/vipinkaulwar13/DSA/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
