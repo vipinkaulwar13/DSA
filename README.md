@@ -23,11 +23,13 @@ DSA
 |  |
 | ------- |
 | [0952-word-subsets](https://github.com/vipinkaulwar13/DSA/tree/master/0952-word-subsets) |
+| [1502-construct-k-palindrome-strings](https://github.com/vipinkaulwar13/DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/vipinkaulwar13/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## String
 |  |
 | ------- |
 | [0952-word-subsets](https://github.com/vipinkaulwar13/DSA/tree/master/0952-word-subsets) |
+| [1502-construct-k-palindrome-strings](https://github.com/vipinkaulwar13/DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/vipinkaulwar13/DSA/tree/master/1524-string-matching-in-an-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/vipinkaulwar13/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/vipinkaulwar13/DSA/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -59,4 +61,12 @@ DSA
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/vipinkaulwar13/DSA/tree/master/0039-combination-sum) |
+## Greedy
+|  |
+| ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/vipinkaulwar13/DSA/tree/master/1502-construct-k-palindrome-strings) |
+## Counting
+|  |
+| ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/vipinkaulwar13/DSA/tree/master/1502-construct-k-palindrome-strings) |
 <!---LeetCode Topics End-->
