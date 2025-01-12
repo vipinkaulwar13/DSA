@@ -32,6 +32,7 @@ DSA
 | [1502-construct-k-palindrome-strings](https://github.com/vipinkaulwar13/DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/vipinkaulwar13/DSA/tree/master/1524-string-matching-in-an-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/vipinkaulwar13/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/vipinkaulwar13/DSA/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/vipinkaulwar13/DSA/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/vipinkaulwar13/DSA/tree/master/2465-shifting-letters-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/vipinkaulwar13/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -65,8 +66,13 @@ DSA
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/vipinkaulwar13/DSA/tree/master/1502-construct-k-palindrome-strings) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/vipinkaulwar13/DSA/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Counting
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/vipinkaulwar13/DSA/tree/master/1502-construct-k-palindrome-strings) |
+## Stack
+|  |
+| ------- |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/vipinkaulwar13/DSA/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 <!---LeetCode Topics End-->
