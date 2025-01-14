@@ -12,6 +12,7 @@ DSA
 | [2292-counting-words-with-a-given-prefix](https://github.com/vipinkaulwar13/DSA/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/vipinkaulwar13/DSA/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/vipinkaulwar13/DSA/tree/master/2465-shifting-letters-ii) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vipinkaulwar13/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/vipinkaulwar13/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Prefix Sum
 |  |
@@ -25,6 +26,7 @@ DSA
 | [0952-word-subsets](https://github.com/vipinkaulwar13/DSA/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/vipinkaulwar13/DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/vipinkaulwar13/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vipinkaulwar13/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/vipinkaulwar13/DSA/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
@@ -42,6 +44,7 @@ DSA
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/vipinkaulwar13/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vipinkaulwar13/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## String Matching
 |  |
 | ------- |
